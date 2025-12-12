@@ -21,6 +21,8 @@ public class DecemberTest extends LinearOpMode {
         // Reverse right side motors for mecanum
         frontRightMotor.setDirection(DcMotor.Direction.REVERSE);
         backRightMotor.setDirection(DcMotor.Direction.REVERSE);
+        frontLeftMotor.setDirection(DcMotor.Direction.REVERSE);  // Changed from FORWARD
+        backLeftMotor.setDirection(DcMotor.Direction.REVERSE);
 
         waitForStart();
 
