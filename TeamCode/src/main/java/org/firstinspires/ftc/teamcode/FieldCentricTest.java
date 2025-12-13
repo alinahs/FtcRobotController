@@ -7,8 +7,8 @@ import com.qualcomm.robotcore.hardware.IMU;
 import org.firstinspires.ftc.robotcore.external.navigation.AngleUnit;
 
 
-@TeleOp(name="DriveTrainTest", group="Linear OpMode")
-public class DecemberTest extends LinearOpMode {
+@TeleOp(name="FieldCentricTest", group="Linear OpMode")
+public class FieldCentricTest extends LinearOpMode {
 
     //declaring motor variables
     private DcMotor frontLeftMotor, frontRightMotor, backLeftMotor, backRightMotor;

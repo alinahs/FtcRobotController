@@ -3,8 +3,8 @@ package org.firstinspires.ftc.teamcode;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
 
-@Autonomous(name="AutoNada", group="Linear OpMode")
-public class AutoNada extends LinearOpMode {
+@Autonomous(name="AutoNothing", group="Linear OpMode")
+public class AutoNothing extends LinearOpMode {
 
     @Override
     public void runOpMode() {

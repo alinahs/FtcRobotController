@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
 
 @TeleOp(name="DriveTrainBASIC", group="Linear OpMode")
-public class DecemberTest extends LinearOpMode {
+public class DriveTrainBASIC extends LinearOpMode {
 
     private DcMotor frontLeftMotor, frontRightMotor, backLeftMotor, backRightMotor;
 
